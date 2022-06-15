@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            뭐 하는거야 
+            what are you doning!.
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
